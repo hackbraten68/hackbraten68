@@ -7,7 +7,7 @@ Full-Stack Developer | IT Coach | Cloud Guru
 I've made my hobby to my profession | started as self-taught Frontend Dev and envolved into a Full-Stack Dev at Lvl. 36 | now coaching fellow dev's in web and cloud technologies
 
 * 🌍  I'm based in Heidelberg
-* 🖥️  See my portfolio at [my \[not-done\] portfolio](http://this-is-sam-v2.netlify.app)
+* 🖥️  See my blog at [self-hosted blog on RPZ2](http://this-is-sam-v2.netlify.app)
 * ✉️  You can contact me at [mosdev@posteo.com](mailto:mosdev@posteo.com)
 * 🚀  I'm currently working on [Hip-Hop Kultur Tage Website](http://thats.normalguy.de/)
 * 🧠  I'm learning for AWS Solution Architect Associate Cert
