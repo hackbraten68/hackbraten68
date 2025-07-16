@@ -11,7 +11,7 @@ I've made my hobby to my profession | started as self-taught Frontend Dev and en
 * ✉️  You can contact me at [mosdev@posteo.com](mailto:mosdev@posteo.com)
 * 🚀  I'm currently working on [Hip-Hop Kultur Tage Website](http://thats.normalguy.de/)
 * 🧠  I'm learning for AWS Solution Architect Associate Cert
-* ⚡  I have trust issues... thanks to docker-compose.yaml indentation errors.
+* ⚡  I have trust issues... thanks to `docker-compose.yaml` indentation errors.
 
 <a href="https://www.twitch.tv/mosdev__" target="_blank" rel="noreferrer">
   <img
