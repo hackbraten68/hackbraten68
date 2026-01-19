@@ -14,7 +14,7 @@
 * ⚡ &nbsp; Fun Fact: I have trust issues... mostly because of `docker-compose.yaml` indentation errors.
 
 <a href="https://www.twitch.tv/mosdev__" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitch/status/mosdev__?logo=twitch&style=for-the-badge&color=9146FF&labelColor=1c1917&label=LIVE+ON+TWITCH" />
+  <img src="https://img.shields.io/badge/LIVE_ON_TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 
 ---
@@ -24,7 +24,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,astro,remix,tailwind)](https://skillicons.dev) |
-| **Backend & Cloud** | [![My Skills](https://skillicons.dev/icons?i=nodejs,graphql,mongodb,mysql,aws,docker,linux,wordpress)](https://skillicons.dev) |
+| **Backend & Cloud** | [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,graphql,mongodb,mysql,aws,docker,wordpress)](https://skillicons.dev) |
 | **OS & Core** | [![My Skills](https://skillicons.dev/icons?i=arch,linux,neovim,git,vscode,arduino)](https://skillicons.dev) |
 | **AI & Next-Gen** | <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Windsurf-00ADFF?style=for-the-badge&logo=windsurf&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-FF4B4B?style=for-the-badge&logo=antigravity&logoColor=white" /> <img src="https://img.shields.io/badge/Spec--Kit-6D28D9?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode-4A4A4A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /> |
 
