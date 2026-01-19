@@ -25,8 +25,8 @@
 | :--- | :--- |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,astro,remix,tailwind)](https://skillicons.dev) |
 | **Backend & Cloud** | [![My Skills](https://skillicons.dev/icons?i=nodejs,graphql,mongodb,mysql,aws,docker,linux,wordpress)](https://skillicons.dev) |
-| **OS & Core** | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/CachyOS-00ADFF?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white" /> [![My Skills](https://skillicons.dev/icons?i=git,vscode,arduino)](https://skillicons.dev) |
-| **AI & Next-Gen** | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Windsurf-00ADFF?style=flat-square&logo=windsurf&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-FF4B4B?style=flat-square&logo=antigravity&logoColor=white" /> <img src="https://img.shields.io/badge/Spec--Kit-6D28D9?style=flat-square&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode-4A4A4A?style=flat-square&logo=opensourceinitiative&logoColor=white" /> |
+| **OS & Core** | [![My Skills](https://skillicons.dev/icons?i=arch,linux,neovim,git,vscode,arduino)](https://skillicons.dev) |
+| **AI & Next-Gen** | <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Windsurf-00ADFF?style=for-the-badge&logo=windsurf&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-FF4B4B?style=for-the-badge&logo=antigravity&logoColor=white" /> <img src="https://img.shields.io/badge/Spec--Kit-6D28D9?style=for-the-badge&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode-4A4A4A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /> |
 
 ---
 
