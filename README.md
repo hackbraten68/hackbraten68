@@ -9,7 +9,7 @@
 ### 🚀 Quick Stats & Currently On
 * 🌍 &nbsp; Based in **Heidelberg, Germany**
 * 🖥️ &nbsp; Reading & Writing: [thats.normalguy.de](http://thats.normalguy.de/) (Self-hosted on RPZ2)
-* 🚀 &nbsp; Building: [`lazytask` (TUI - Todo List)](https://github.com/hackbraten68/lazytask) & [`inventauri v2` (Inventory Management for Microshops)](https://github.com/hackbraten68/inventauri-v2)
+* 🚀 &nbsp; Building: [`lazytask` (TUI - Todo List)](https://github.com/hackbraten68/lazytask) & [`inventauri v2`](https://github.com/hackbraten68/inventauri-v2)
 * 🧠 &nbsp; Learning: Currently diving deep into the **AWS Solution Architect Associate**
 * ⚡ &nbsp; Fun Fact: I have trust issues... mostly because of `docker-compose.yaml` indentation errors.
 
@@ -19,16 +19,14 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Ecosystem
 
-**Frontend & Core** 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,tailwind,remix)](https://skillicons.dev)
-
-**Backend & Infrastructure** 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,graphql,mongodb,mysql,wordpress,aws,docker,linux)](https://skillicons.dev)
-
-**Tools & Hardware** 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,arduino)](https://skillicons.dev)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,astro,remix,tailwind)](https://skillicons.dev) |
+| **Backend & Cloud** | [![My Skills](https://skillicons.dev/icons?i=nodejs,graphql,mongodb,mysql,aws,docker,linux,wordpress)](https://skillicons.dev) |
+| **OS & Core** | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/CachyOS-00ADFF?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white" /> [![My Skills](https://skillicons.dev/icons?i=git,vscode,arduino)](https://skillicons.dev) |
+| **AI & Next-Gen** | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Windsurf-00ADFF?style=flat-square&logo=windsurf&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-FF4B4B?style=flat-square&logo=antigravity&logoColor=white" /> <img src="https://img.shields.io/badge/Spec--Kit-6D28D9?style=flat-square&logo=gitbook&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode-4A4A4A?style=flat-square&logo=opensourceinitiative&logoColor=white" /> |
 
 ---
 
