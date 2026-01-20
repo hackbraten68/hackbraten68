@@ -13,9 +13,7 @@
 * 🧠 &nbsp; Learning: Currently diving deep into the **AWS Solution Architect Associate**
 * ⚡ &nbsp; Fun Fact: I have trust issues... mostly because of `docker-compose.yaml` indentation errors.
 
-<a href="https://www.twitch.tv/mosdev__" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LIVE_ON_TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
+<a href="https://www.twitch.tv/mosdev__" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitch/status/mosdev__?logo=twitch&style=for-the-badge&color=9146FF&labelColor=1c1917&label=LIVE+ON+TWITCH" /> </a>
 
 ---
 
