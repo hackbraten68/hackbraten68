@@ -9,7 +9,7 @@
 ### 🚀 Quick Stats & Currently On
 * 🌍 &nbsp; Based in **Heidelberg, Germany**
 * 🖥️ &nbsp; Reading & Writing: [console.mosdev.me](https://console.mosdev.me/) (Self-hosted on RPZ2)
-* 🚀 &nbsp; Building: [`lazytask` (TUI - Todo List)](https://github.com/hackbraten68/lazytask) & [`inventauri v2`](https://github.com/hackbraten68/inventauri-v2)
+* 🚀 &nbsp; Building: [`lazytask` (TUI - Todo List)](https://github.com/hackbraten68/lazytask) & [`inventauri v2` (Microshop Item Management)](https://github.com/hackbraten68/inventauri-v2)
 * 🧠 &nbsp; Learning: Currently diving deep into the **AWS Solution Architect Associate**
 * ⚡ &nbsp; Fun Fact: I have trust issues... mostly because of `docker-compose.yaml` indentation errors.
 
