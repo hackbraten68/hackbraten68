@@ -15,6 +15,9 @@
 
 <a href="https://www.twitch.tv/mosdev__" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitch/status/mosdev__?logo=twitch&style=for-the-badge&color=9146FF&labelColor=1c1917&label=LIVE+ON+TWITCH" /> </a>
 
+Let's meet on Harmony !
+[![Join Examinator's Townhall](https://chat.examinator.dev/api/federation/widget/invite/IARCCM9G/badge.svg)](https://chat.examinator.dev/invite/IARCCM9G)
+
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
